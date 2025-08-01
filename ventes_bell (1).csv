@@ -1,0 +1,9 @@
+nom_client,province,nom_produit,type,prix,quantite,date_vente,revenu
+Alice Tremblay,Quebec,Forfait Mobile 20 Go,Mobile,65,1,2025-06-01,65
+Alice Tremblay,Quebec,iPhone 15,Appareil,1200,1,2025-06-01,1200
+Marc Dupuis,Ontario,Internet Fibe 500,Internet,85,1,2025-06-10,85
+Léa Fortin,Quebec,TV Fibe Premium,TV,60,1,2025-07-01,60
+John Smith,Alberta,Forfait Mobile 20 Go,Mobile,65,1,2025-07-05,65
+Marc Dupuis,Ontario,Routeur Wi-Fi 6,Appareil,200,1,2025-07-08,200
+Léa Fortin,Quebec,Forfait Mobile 20 Go,Mobile,65,1,2025-07-15,65
+Alice Tremblay,Quebec,Internet Fibe 500,Internet,85,1,2025-08-01,85
